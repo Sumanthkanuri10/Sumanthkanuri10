@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sumanthkanuri
 - 👀 I’m interested in software devloper Internships
 - 🌱 I’m currently learning ReactJs
-- 📫 Rreach me sumanthkanuri10@gmail.com
+- 📫 Reach me sumanthkanuri10@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
