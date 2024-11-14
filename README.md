@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Sumanthkanuri
-- 👀 I’m interested in software devloper Internships
+- 👀 I’m interested in software Engineer positions
 - 🌱 I’m currently learning ReactJs
 - 📫 Reach me sumanthkanuri10@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Sumanthkanuri10/Sumanthkanuri10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
