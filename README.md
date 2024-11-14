@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumanthkanuri
 - 👀 I’m interested in software Engineer positions
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently expanding my knowledge in React and Node
 - 📫 Reach me sumanthkanuri10@gmail.com
 
 
